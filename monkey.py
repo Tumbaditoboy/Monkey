@@ -1,3 +1,3 @@
 print("Soy un mono")
 
-print("Y yo otro mono")
+print("Pinche bob esponja")
